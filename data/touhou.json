@@ -1,0 +1,244 @@
+{
+  "touhou": [{
+      "kategori": "game",
+      "nama": "Touhou 1 : The highly Responsive to Prayers",
+      "genre": "Breakout Semi Bullet Hell",
+      "developer": "Zun",
+      "publisher": "Zun",
+      "release": 1997,
+      "description": "Game Touhou Pertama Dari Zun Developernya Zun Soft",
+      "image": "img/game/th1.jpg"
+    },
+    {
+      "kategori": "game",
+      "nama": "Touhou 2 - The Story of Eastern Wonderland",
+      "genre": "Shooter, Bullet hell",
+      "developer": "Zun",
+      "publisher": "Zun",
+      "release": 1998,
+      "description": "Game Touhou Kedua Dari Zun",
+      "image": "img/game/th2.jpg"
+    },
+    {
+      "kategori": "game",
+      "nama": "Touhou 3 - Phantasmagoria of Dimensional Dream",
+      "genre": "Versus Shooter, Versus Bullet hell",
+      "developer": "Zun",
+      "publisher": "Zun",
+      "release": 1999,
+      "description": "Game Touhou Ketiga Dari Zun",
+      "image": "img/game/th3.jpg"
+    },
+    {
+      "kategori": "game",
+      "nama": "Touhou 4 - Lotus Land Story",
+      "genre": "Shooter, Bullet hell",
+      "developer": "Zun",
+      "publisher": "Zun",
+      "release": 2000,
+      "description": "Game Touhou Keempat Dari Zun",
+      "image": "img/game/th4.jpg"
+    },
+    {
+      "kategori": "game",
+      "nama": "Touhou 5 - Mystic Square",
+      "genre": "Shooter, Bullet hell",
+      "developer": "Zun",
+      "publisher": "Zun",
+      "release": 2001,
+      "description": "Game Touhou Kelima Dari Zun",
+      "image": "img/game/th5.jpg"
+    },
+    {
+      "kategori": "game",
+      "nama": "Touhou 6 - The Embodiment of Scarlet Devil",
+      "genre": "Shooter, Bullet hell",
+      "developer": "Zun",
+      "publisher": "Zun",
+      "release": 2002,
+      "description": "Game Touhou Keenam Dari Zun",
+      "image": "img/game/th6.jpg"
+    },
+    {
+      "kategori": "game",
+      "nama": "Touhou 7 - Perfect Cherry Blossom",
+      "genre": "Shooter, Bullet hell",
+      "developer": "Zun",
+      "publisher": "Zun",
+      "release": 2004,
+      "description": "Game Touhou Tujuh Dari Zun",
+      "image": "img/game/th7.jpg"
+    },
+    {
+      "kategori": "game",
+      "nama": "Touhou 8 - Imperishable Night",
+      "genre": "Shooter, Bullet hell",
+      "developer": "Zun",
+      "publisher": "Zun",
+      "release": 2006,
+      "description": "Game Touhou Delapan Dari Zun",
+      "image": "img/game/th8.jpg"
+    },
+    {
+      "kategori": "game",
+      "nama": "Touhou 9 - Phantasmagoria of Flower View",
+      "genre": "Versus Shooter, Versus Bullet hell Dari Seri Ke - 9",
+      "developer": "Zun",
+      "publisher": "Zun",
+      "release": 2008,
+      "description": "Game Touhou Pertama Dari Zun",
+      "image": "img/game/th9.jpg"
+    },
+    {
+      "kategori": "game",
+      "nama": "Touhou 10 - Mountain of Faith",
+      "genre": "Shooter, Bullet hell",
+      "developer": "Zun",
+      "publisher": "Zun",
+      "release": 2010,
+      "description": "Game Touhou Kesepuluh Dari Zun",
+      "image": "img/game/th10.jpg"
+    },
+    {
+      "kategori": "game",
+      "nama": "Touhou 11 - Subterranean Animism",
+      "genre": "Shooter, Bullet hell",
+      "developer": "Zun",
+      "publisher": "Zun",
+      "release": 2012,
+      "description": "Game Touhou Sebelas Dari Zun",
+      "image": "img/game/th11.jpg"
+    },
+    {
+      "kategori": "game",
+      "nama": "Touhou 12 -  Undefined Fantastic Object",
+      "genre": "Shooter, Bullet hell",
+      "developer": "Zun",
+      "publisher": "Zun",
+      "release": 2013,
+      "description": "Game Touhou Duabelas Dari Zun",
+      "image": "img/game/th12.jpg"
+    },
+    {
+      "kategori": "game",
+      "nama": "Touhou 13 - Ten Desires",
+      "genre": "Shooter, Bullet hell",
+      "developer": "Zun",
+      "publisher": "Zun",
+      "release": 2014,
+      "description": "Game Touhou Tigabelas Dari Zun",
+      "image": "img/game/th13.jpg"
+    },
+    {
+      "kategori": "game",
+      "nama": "Touhou 14 - Double-Dealing Character",
+      "genre": "Shooter, Bullet hell",
+      "developer": "Zun",
+      "publisher": "Zun",
+      "release": 2015,
+      "description": "Game Touhou Empatbelas Dari Zun",
+      "image": "img/game/th14.jpg"
+    },
+    {
+      "kategori": "game",
+      "nama": "Touhou 15 - Legacy of Lunatic Kingdom",
+      "genre": "Shooter, Bullet hell",
+      "developer": "Zun",
+      "publisher": "Zun",
+      "release": 2016,
+      "description": "Game Touhou Limabelas Dari Zun",
+      "image": "img/game/th15.jpg"
+    },
+    {
+      "kategori": "game",
+      "nama": "Touhou 16 - Hidden Star in Four Seasons",
+      "genre": "Shooter, Bullet hell",
+      "developer": "Zun",
+      "publisher": "Zun",
+      "release": 2017,
+      "description": "Game Touhou Enambelas Dari Zun",
+      "image": "img/game/th16.jpg"
+    },
+    {
+      "kategori": "character",
+      "nama": "Hakurei Reimu",
+      "race": "Human",
+      "abilities": "Exterminate Youkai",
+      "age": "17 - ... years",
+      "occupation": "Drinking , Sleep Overtime",
+      "description": "",
+      "image": "img/char/reimu.png"
+    },
+    {
+      "kategori": "character",
+      "nama": "Kirisame Marisa",
+      "race": "Human",
+      "abilities": "Exterminate Youkai",
+      "age": "17 - ... years",
+      "occupation": "Charismatic , Drinking",
+      "description": "",
+      "image": "img/char/marisa.jpg"
+    },
+    {
+      "kategori": "character",
+      "nama": "Youmu Konpaku",
+      "race": "Half Human Half Ghost",
+      "abilities": "Gardener Of The Nether, Slashing Whatever On Her Blade",
+      "age": "140 - ... years",
+      "occupation": "Garndeing, Cooking, Drinking",
+      "description": "",
+      "image": "img/char/youmu.jpg"
+    },
+    {
+      "kategori": "character",
+      "nama": "Cirno",
+      "race": "Fairy",
+      "abilities": "Ice Spirit",
+      "age": "60 years",
+      "occupation": "Freeze The Moriya's Frogs, The Strongers Cirno",
+      "description": "",
+      "image": "img/char/cirno.jpg"
+    },
+    {
+      "kategori": "character",
+      "nama": "Remilla Scarlet",
+      "race": "Vampire",
+      "abilities": "Manipulation Fates",
+      "age": "500 years",
+      "occupation": "Drinking , Charismatic",
+      "description": "",
+      "image": "img/char/remillia.jpg"
+    },
+    {
+      "kategori": "character",
+      "nama": "Sakuya Izayoi",
+      "race": "Human",
+      "abilities": "Manipulation Time / Stoping Time",
+      "age": "Unknow",
+      "occupation": "The Elegant Maid In The Scarlet Devil Mansion",
+      "description": "The Maid .. Zawuardo ..",
+      "image": "img/char/sakuya.jpg"
+    },
+    {
+      "kategori": "character",
+      "nama": "Yuyuko Saighouji",
+      "race": "Ghost",
+      "abilities": "Saigou Ayakasi, Border Of Life And Dead",
+      "age": "More Than 200 years",
+      "occupation": "Drinking , Eating Anything Overtime Everywhare",
+      "description": "",
+      "image": "img/char/yuyuko.jpg"
+    },
+    {
+      "kategori": "character",
+      "nama": "Yukari Yakumo",
+      "race": "Gap Youkai",
+      "abilities": "Manipulation Boundaries / Gapped The Train Of Shinigami",
+      "age": "1200 years before Gensokyo created",
+      "occupation": "Drinking , Sleep Overtime Anytime",
+      "description": "",
+      "image": "img/char/yukari.jpg"
+    }
+
+  ]
+}
